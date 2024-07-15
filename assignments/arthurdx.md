@@ -10,7 +10,7 @@
 
 ### Contact Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-303345?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurocha7/)  [![Email](https://img.shields.io/badge/✉Email-303345?style=for-the-badge)](https://www.linkedin.com/in/arthurocha7/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-303345?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurocha7/)  [![Email](https://img.shields.io/badge/✉Email-303345?style=for-the-badge)](mailto:arthurmralves@gmail.com)
 
 ### Stats and Skills
 
