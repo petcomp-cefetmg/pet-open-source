@@ -15,7 +15,7 @@
 ### Stats and Skills
 
 <div>
-<a href="https://github.com/arthurdx/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=arthurdx&theme=radical&card_width=300"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
